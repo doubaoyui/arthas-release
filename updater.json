@@ -1,13 +1,3 @@
-  "version": "0.0.7",
-  "pub_date": "2025-10-25T05:49:45.227Z",
-  "platforms": {
-    "windows-x86_64": {
-      "url": "https://github.com/doubaoyui/arthas-release/releases/download/v0.0.7/arthas_0.0.7_x64_en-US.msi",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeUNHS3BieFg1amplU042d1V5cFZzSy9Mc2RldURKYVhoaWVYaFFsVG9WM00zWm8rYzZwaUNHWXN1ejRFY0pONkhCcnBXcStOVXRjY1B5YUIwbE5pWm1YM0RrSnJ6c1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYxMzcxMzg1CWZpbGU6YXJ0aGFzXzAuMC43X3g2NF9lbi1VUy5tc2kKNG1xSnYxL0xyZVVVbndUQnQ5ZWJBTWVUSnRTNE1taHM5Tk9oTnZJWjBQcmp6d2hFWjJXeEZ1YW9sWVcyUnpaZXpFaTBSNjI3TGovUXBBbzRwNm9nQ0E9PQo="
->>>>>>> 379beba799db9afe1b32d28b10244f765b88553c
-    }
-  }
-}
 {
   "version": "0.0.8",
   "pub_date": "2025-10-26T14:45:23.673Z",
@@ -18,14 +8,4 @@
     }
   }
 }
-=======
-  "version": "0.0.7",
-  "pub_date": "2025-10-25T05:49:45.227Z",
-  "platforms": {
-    "windows-x86_64": {
-      "url": "https://github.com/doubaoyui/arthas-release/releases/download/v0.0.7/arthas_0.0.7_x64_en-US.msi",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeUNHS3BieFg1amplU042d1V5cFZzSy9Mc2RldURKYVhoaWVYaFFsVG9WM00zWm8rYzZwaUNHWXN1ejRFY0pONkhCcnBXcStOVXRjY1B5YUIwbE5pWm1YM0RrSnJ6c1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYxMzcxMzg1CWZpbGU6YXJ0aGFzXzAuMC43X3g2NF9lbi1VUy5tc2kKNG1xSnYxL0xyZVVVbndUQnQ5ZWJBTWVUSnRTNE1taHM5Tk9oTnZJWjBQcmp6d2hFWjJXeEZ1YW9sWVcyUnpaZXpFaTBSNjI3TGovUXBBbzRwNm9nQ0E9PQo="
->>>>>>> 379beba799db9afe1b32d28b10244f765b88553c
-    }
-  }
-}
+
