@@ -1,11 +1,10 @@
 {
-  "version": "0.0.8",
-  "pub_date": "2025-10-26T14:45:23.673Z",
+  "version": "0.0.11",
+  "pub_date": "2025-11-02T06:30:59.087Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/doubaoyui/arthas-release/releases/download/v0.0.8/arthas_0.0.8_x64_en-US.msi",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeUNHS3BieFg1amp2NzRJTi8zeHZKbzIvTFR4ZFl5YU5xR1FhWnpKOEhBL3htcnRjNWhYbUU4KzVnYUpob0pFYWVGczdnVlhJR0sydzNwL2UvVU0rckJVQnVDdkxpQ3dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYxNDg5OTIzCWZpbGU6YXJ0aGFzXzAuMC44X3g2NF9lbi1VUy5tc2kKZmtvaUlyVlcrUlRBclR3NnVVMzVxbXFBMG5iZnlCaGhEcVZLTjkyVU03b3BCYzl1RXBuK1BWUVZaUkpHaWtXT1ZNZ0RWaWZWWWkvQmtjQ2pmUG5pQ0E9PQo="
+      "url": "https://github.com/doubaoyui/arthas-release/releases/download/v0.0.11/arthas_0.0.11_x64_en-US.msi",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeUNHS3BieFg1amhBZ3orOG1wVHFCeVo0dW5ZbTc0SWV0dkxpTWw5bUJKVURmekZ2VVcvRGZaOWFheWdPVmhkRHl1WVFMNmtBTzFubnU0NXlWWXVOM3VrWUVJOElXTFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYyMDY1MDU4CWZpbGU6YXJ0aGFzXzAuMC4xMV94NjRfZW4tVVMubXNpCngvTS9IUUlRTE1qZEJxcFFvb1pQN0VQKy9ZbUNPN1FKRG5QNU0yRE9jMkgrcld6SFRFTTFIbi9kUUM5dzVEZjZKckh6cXNuTDJUT0RXZGJXekJNckFnPT0K"
     }
   }
 }
-
